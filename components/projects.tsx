@@ -43,8 +43,7 @@ export default function Projects() {
         Projects
       </h2>
       <p className="mt-3 text-base text-zinc-500 max-w-xl">
-        AI-powered tools I&apos;ve built to automate real workflows — from
-        financial analysis to travel planning.
+        Things I built because the manual version was too slow.
       </p>
       <div className="mt-10 grid gap-8 sm:grid-cols-2">
         {projects.map((project) => (

@@ -12,13 +12,15 @@ export default function Hero() {
       <h1 className="text-5xl font-bold tracking-tight text-zinc-900 sm:text-6xl">
         Mustafa Bengali
       </h1>
-      <p className="mt-5 text-xl text-zinc-400 font-light">
-        Startup founder turned MBA — builds tools that solve real problems.
+      <p className="mt-4 text-lg font-medium text-zinc-400">
+        Product Manager, MBA
       </p>
       <p className="mt-6 max-w-2xl text-base leading-7 text-zinc-500">
-        I build AI-powered automation tools — from financial news pipelines to
-        ML-driven sports analytics. Currently pursuing my MBA at INSEAD, with a
-        background in startups and a focus on AI, markets, and tech.
+        Four years building product at a B2B startup in Pakistan — from zero to
+        a Series A. I have experience launching markets, scaling models, and
+        managing diverse teams. Now at INSEAD, and building on the side.
+        I&apos;m interested in the problems that sit at the edge of AI, markets,
+        and real-world operations.
       </p>
       <div className="mt-8 flex gap-5">
         <a
